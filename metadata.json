@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Pastel Kitchen 3D",
+  "description": "Game memasak 3D interaktif bertema pastel estetik dengan simulasi dapur kooperatif, resep hidangan manis, dan kustomisasi dekorasi restoran yang elegan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
